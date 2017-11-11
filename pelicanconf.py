@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'mamix'
 SITENAME = 'Carto Gallery'
-SITEURL = 'https://mamix1116.github.io/cartogallery/'
+SITEURL = ''
 
 DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = True
