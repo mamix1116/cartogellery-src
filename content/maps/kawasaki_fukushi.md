@@ -5,7 +5,7 @@ Tags: 神奈川県, 川崎市
 Slug: kawasaki_fukushi
 Author: mamix
 Summary: 川崎市の障害施設マップ
-Picture: images/shinagawa_jiko.png
+Picture: images/kawasaki_fukushi.png
 
 ---
 
@@ -15,13 +15,11 @@ Picture: images/shinagawa_jiko.png
 ### 川崎障害施設マップ
 川崎市の障害施設マップ。
 
-
-
-
 **[View Online](https://gunraw10.carto.com/builder/f251b73d-4289-41bf-80b0-2236399248c2/embed)**
 
 
-
+### 作成者
+Hayato
 
 
 ### 出典
