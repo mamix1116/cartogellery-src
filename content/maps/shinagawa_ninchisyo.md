@@ -27,6 +27,13 @@ Picture: images/shinagawa_ninchisyo_01.png
 - 警察署
 - 地域センター
 
+### 作成したオープンデータ
+- 認知症カフェ（品川区）
+http://linkdata.org/work/rdf1s5429i
+
+- 支え愛・ほっとステーション（品川区）
+http://linkdata.org/work/rdf1s5430
+
 ### 出典
 - xxx
 - yyy

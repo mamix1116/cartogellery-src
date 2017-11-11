@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'mamix'
-SITENAME = 'Carto Gallery'
+SITENAME = 'Civic Carto Gallery'
 SITEURL = SITEURL_ABS = ''
 
 DISPLAY_PAGES_ON_MENU = True
@@ -45,6 +45,6 @@ DEFAULT_PAGINATION = 50
 #RELATIVE_URLS = True
 
 # additional setting for Theme html5-dopetrope
-ABOUT_TEXT = 'てすとです。About textです。'
+ABOUT_TEXT = 'オープンデータなどを利用して作成された地図を集めたギャラリーサイト'
 ABOUT_IMAGE = ''
 COPYRIGHT = 'mamix'
