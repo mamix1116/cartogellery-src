@@ -24,3 +24,7 @@ Picture: images/shinagawa_ninchisyo_01.png
 - 交番
 - 警察署
 - 地域センター
+
+### 出典
+- xxx
+- yyy
