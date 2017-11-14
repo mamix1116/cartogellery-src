@@ -13,7 +13,7 @@ Picture: images/kohoku_canbadge.png
 <iframe width="100%" height="520" frameborder="0" src="https://ouentai.carto.com/builder/29bde5a5-4800-43fe-9281-e2d51f816711/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 ### 港北区「子育て応援隊」缶バッジ配布・設置分布図
-(子育て応援隊 FROM こうほくnetほいっぷ)[https://kohoku-net-whip.jimdo.com/]は、横浜市港北区を中心に、色々なアイディアを出し合って、もっと子育てしやすくなる形を、地域の子育て中のみんなで考えて一緒に作っていくための、子育て当事者グループ。  
+[子育て応援隊 FROM こうほくnetほいっぷ](https://kohoku-net-whip.jimdo.com/)は、横浜市港北区を中心に、色々なアイディアを出し合って、もっと子育てしやすくなる形を、地域の子育て中のみんなで考えて一緒に作っていくための、子育て当事者グループ。  
 「子育て応援隊缶バッジ」を作成し、*誰かに「ちょっと」手を貸してもらいたい*、*「ちょっと」手伝ってあげたい* という時に、地域で声をかけやすくなるような「支えあいの輪」を広げています。
 
 
