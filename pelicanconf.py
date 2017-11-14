@@ -45,6 +45,6 @@ DEFAULT_PAGINATION = 50
 #RELATIVE_URLS = True
 
 # additional setting for Theme html5-dopetrope
-ABOUT_TEXT = 'オープンデータなどを利用して作成された地図を集めたギャラリーサイト'
+ABOUT_TEXT = 'オープンデータなどを利用して作成されたWEB地図を集めたギャラリーサイト'
 ABOUT_IMAGE = ''
 COPYRIGHT = 'mamix'

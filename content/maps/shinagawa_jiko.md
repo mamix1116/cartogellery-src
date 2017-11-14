@@ -24,10 +24,11 @@ Picture: images/shinagawa_jiko.png
 
 ### 利用したオープンデータ
 - 負傷事故 H25, H26, H27, H28
-- 死亡事故 H25, H26, H27, H28
-http://www.city.shinagawa.tokyo.jp/hp/menu000024200/hpg000024168.htm
-
+- 死亡事故 H25, H26, H27, H28  
 
 
 ### 出典
-- [品川区 オープンデータ](http://www.city.shinagawa.tokyo.jp/hp/menu000024200/hpg000024168.htm)
+- [品川区 オープンデータ][2]
+
+[1]:https://mamix1116.carto.com/builder/552635e1-df52-4962-9c63-11104c0dfad4/embed
+[2]:http://www.city.shinagawa.tokyo.jp/hp/menu000024200/hpg000024168.htm

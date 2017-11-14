@@ -4,7 +4,7 @@ Category: Maps
 Tags: 神奈川県, 川崎市
 Slug: urbandatachallenge
 Author: mamix
-Summary: 川崎市の障害施設マップ
+Summary: アーバンデータチャレンジ2017の地域拠点
 Picture: images/urbandatachallenge.png
 
 ---
