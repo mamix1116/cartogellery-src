@@ -33,6 +33,12 @@
 									<div class="pennant pennant-alt date">{{ article.locale_date }}</div>
 									<h2>{{ article.title }}</h2>
 									{{ article.content }}
+
+									<div class="maplink">
+									{% if article.maplink %}
+											<a class="button" href="{{ article.maplink }}" target="_blank">VIEW MAP</a>
+									{% endif %}
+									</div>
 								</article>
 								{% include 'disqus_script.html' %}
 						</div>
