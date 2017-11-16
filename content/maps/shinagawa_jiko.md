@@ -4,7 +4,7 @@ Category: Maps
 Tags: 東京都, 品川区
 Slug: shinagawa_jiko
 Author: mamix
-Summary: 品川区の負傷事故・死亡事故マップ
+Summary: どうしたら事故が減るのかなぁ
 Picture: images/shinagawa_jiko.png
 
 ---

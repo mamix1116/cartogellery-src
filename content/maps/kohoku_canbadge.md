@@ -4,7 +4,7 @@ Category: Maps
 Tags: 神奈川県, 港北区
 Slug: kohoku_canbadge
 Author: mamix
-Summary: 港北区「子育て応援隊」缶バッジ配布・設置分布図
+Summary: 缶バッジの広がりが見えてくる
 Picture: images/kohoku_canbadge.png
 maplink: https://kohoku-net-whip.jimdo.com/%E7%BC%B6%E3%83%90%E3%83%83%E3%82%B8%E8%A8%AD%E7%BD%AE%E6%96%BD%E8%A8%AD/
 

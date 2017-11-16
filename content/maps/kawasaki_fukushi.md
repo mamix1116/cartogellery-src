@@ -4,7 +4,7 @@ Category: Maps
 Tags: 神奈川県, 川崎市
 Slug: kawasaki_fukushi
 Author: mamix
-Summary: 川崎市の障害施設マップ
+Summary: フォントを大きめにしたり見やすさを工夫している点がいいね！
 Picture: images/kawasaki_fukushi.png
 
 ---

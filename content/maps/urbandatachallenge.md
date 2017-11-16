@@ -4,8 +4,9 @@ Category: Maps
 Tags: 神奈川県, 川崎市
 Slug: urbandatachallenge
 Author: mamix
-Summary: アーバンデータチャレンジ2017の地域拠点
+Summary: 年々ひろがる地域拠点。カラフルなマップが目をひくね。
 Picture: images/urbandatachallenge.png
+maplink: http://urbandata-challenge.jp/
 
 ---
 

@@ -4,7 +4,7 @@ Category: Maps
 Tags: 東京都, 品川区
 Slug: shinagawa_ninchisyo
 Author: mamix
-Summary: 品川区の認知症支援施設のマップ。認知症カフェなど
+Summary: 認知症カフェは、認知症の方が外出するきっかけにも
 Picture: images/shinagawa_ninchisyo_01.png
 
 ---
