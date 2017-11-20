@@ -5,7 +5,7 @@ Tags: 岐阜県
 Slug: gifu_aed
 Author: mamix
 Summary: 岐阜県のオープンデータを活用。クラスタ表示で全体像がわかりやすいね。
-Picture: images/kawasaki_fukushi.png
+Picture: images/gifu_aed.png
 maplink: https://tetsujiishii.carto.com/viz/991f3e0c-45de-11e6-87a4-0ee66e2c9693/public_map
 
 
