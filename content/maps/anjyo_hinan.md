@@ -6,13 +6,13 @@ Slug: anjyo_hinan
 Author: mamix
 Summary: ベース図に航空写真を使ってる。避難所の周りの様子が見て取れるね。
 Picture: images/anjyo_hinan.png
-maplink: https://tetsujiishii.carto.com/viz/d3d8ad92-77c7-11e6-ba10-0e3ebc282e83/public_map
+maplink: https://kandenti2001.carto.com/viz/d3d8ad92-77c7-11e6-ba10-0e3ebc282e83/public_map
 
 
 ---
 
 
-<iframe width="100%" height="520" frameborder="0" src="https://tetsujiishii.carto.com/viz/d3d8ad92-77c7-11e6-ba10-0e3ebc282e83/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe width="100%" height="520" frameborder="0" src="https://kandenti2001.carto.com/viz/d3d8ad92-77c7-11e6-ba10-0e3ebc282e83/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 ### 安城市避難所／避難場所マップ
 アドレスマッチングで若干ズレている部分がありますが、容赦ください。
